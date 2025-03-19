@@ -21,4 +21,4 @@ spec:
   selector:
     app: spring-petclinic
   sessionAffinity: None
-  type: ClusterIP
+  type: NodePort
